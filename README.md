@@ -16,7 +16,7 @@ The `AccountServiceImpl` class is the implementation of the `AccountService` int
 
 ### How to Run
 ## Clone the repository:
-git clone https://github.com/yourusername/ebanking-app.git
+git clone https://github.com/restynan/accounts.git
 
 ## Navigate to the project directory:
 cd ebanking-app
